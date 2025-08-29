@@ -9,6 +9,7 @@ body{
     width: 100%;
     height: 100%;
     font-family: "TASA Orbiter", sans-serif;
+    font-size: 1.5em;
 }
 
 .principal{
@@ -86,4 +87,5 @@ p{
 
 .final{
     background-color: beige;
+    margin-bottom: 5%;
 }
