@@ -59,3 +59,7 @@ body{
     position: absolute;
     width: 10%;
 }
+
+.iframe{
+    width: 100%;
+}
