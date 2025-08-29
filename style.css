@@ -56,3 +56,8 @@ body{
 .imagem{
     position: absolute;
 }
+
+.video{
+    position: absolute;
+    float: right;
+}
