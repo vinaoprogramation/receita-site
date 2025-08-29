@@ -11,6 +11,7 @@ body{
     font-family: "TASA Orbiter", sans-serif;
     font-size: 1.5em;
     padding: 1%;
+    box-sizing: border-box;
 }
 
 .principal{
