@@ -128,3 +128,7 @@ p{
 .parte-2{
     float: right;
 }
+
+.numero-grande{
+    font-size: 3em;
+}
