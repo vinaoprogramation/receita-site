@@ -39,6 +39,10 @@ body{
     margin-top: 10%;
 }
 
+.listas{
+    margin-top: 10%;
+}
+
 .listas ul{
     list-style-type: disc;
     text-align: left;
