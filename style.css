@@ -74,6 +74,10 @@ body{
     box-sizing: border-box;
 }
 
+.texto ul{
+    list-style-type: none;
+}
+
 .imagem{
     position: absolute;
     width: 350px;
