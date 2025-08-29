@@ -50,10 +50,13 @@ body{
 
 .video{
     width: 50%;
+    margin-top: 10%;
+
 }
 
 .texto{
     width: 50%;
+    height: 40%;
     padding: 5%;
     box-sizing: border-box;
 }
