@@ -13,7 +13,6 @@ body{
 .principal{
     background-color: grey;    
     margin-bottom: 5%;
-    display: flex;
     justify-content: center;
     width: 100%;
     height: fit-content;
