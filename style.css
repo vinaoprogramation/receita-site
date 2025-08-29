@@ -43,6 +43,7 @@ body{
     background-color: beige;    
     width: 100%;
     height: fit-content;
+    justify-content: left;
 }
 
 .segunda-parte .listas{
