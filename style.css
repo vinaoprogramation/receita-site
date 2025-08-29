@@ -27,4 +27,5 @@ body{
 .principal .listas{
     display: flex;
     background-color: aqua;
+    justify-content: space-around;
 }
