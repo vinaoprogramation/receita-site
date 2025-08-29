@@ -44,8 +44,7 @@ body{
     width: 100%;
     height: fit-content;
     display: flex;
-    justify-content: left;
-    text-align: left;
+    justify-content: center;
 }
 
 .video{
