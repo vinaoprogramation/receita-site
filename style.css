@@ -13,6 +13,7 @@ body{
     background-color: grey;    
     margin-bottom: 5%;
     display: flex;
+    justify-content: center;
 }
 
 .principal h1{
