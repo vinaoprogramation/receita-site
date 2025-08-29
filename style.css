@@ -6,7 +6,8 @@
 body{
     background-color: antiquewhite;
     text-align: center;
-
+    width: 100%;
+    height: 100%;
 }
 
 .principal{
@@ -14,6 +15,8 @@ body{
     margin-bottom: 5%;
     display: flex;
     justify-content: center;
+    width: 100%;
+    height: fit-content;
 }
 
 .principal h1{
