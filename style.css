@@ -48,6 +48,10 @@ body{
 
 }
 
+.igredientes{
+    line-height: 1.2em;
+}
+
 .segunda-parte{
     background-color: beige;    
     width: 100%;
