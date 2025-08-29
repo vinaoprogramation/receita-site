@@ -73,6 +73,7 @@ body{
 .imagem{
     position: absolute;
     width: 350px;
+    margin-top: 5%;
 }
 
 .video{
