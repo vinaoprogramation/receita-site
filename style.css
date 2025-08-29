@@ -29,6 +29,9 @@ body{
     display: flex;
     background-color: aqua;
     justify-content: space-around;
+}
+
+.listas ul{
     list-style-type: none;
     text-align: left;
 }
