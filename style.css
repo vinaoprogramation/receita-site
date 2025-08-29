@@ -45,6 +45,7 @@ body{
     height: fit-content;
     display: flex;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .video{
@@ -53,6 +54,8 @@ body{
 
 .texto{
     width: 50%;
+    padding: 5%;
+    box-sizing: border-box;
 }
 
 .imagem{
