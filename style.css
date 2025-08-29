@@ -55,6 +55,7 @@ body{
 
 .imagem{
     position: absolute;
+    width: 30%;
 }
 
 .video{
