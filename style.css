@@ -81,7 +81,12 @@ body{
 .iframe{
     width: 70%;
     height: 100%;
-    box-shadow: 0 0 5px 1px black;
+    box-shadow: 0 0 8px 2px black;
+    transition: box-shadow 0.2s;
+}
+
+.iframe:hover{
+    box-shadow: 0 0 12px 3px black;
 }
 
 h1{
