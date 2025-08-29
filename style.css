@@ -21,11 +21,15 @@ body{
     height: fit-content;
 }
 
+.titulo-principal{
+    border-bottom: 2px solid black
+
+}
+
 .principal h1{
     display: block;
     font-size: 5em;
     padding: 3%;
-    border-bottom: 2px solid black
 
 }
 
