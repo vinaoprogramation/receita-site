@@ -19,6 +19,7 @@ body{
     justify-content: center;
     width: 100%;
     height: fit-content;
+    border-top: 2px solid black
 }
 
 .principal h1{
