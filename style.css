@@ -12,7 +12,7 @@ body{
 }
 
 .principal{
-    background-color: grey;    
+    background-color: rgb(182, 175, 155);    
     margin-bottom: 5%;
     justify-content: center;
     width: 100%;
@@ -27,7 +27,6 @@ body{
 
 .principal .listas{
     display: flex;
-    background-color: aqua;
     justify-content: space-around;
 }
 
