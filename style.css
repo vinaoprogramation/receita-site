@@ -28,11 +28,10 @@ body{
 .principal .listas{
     display: flex;
     background-color: aqua;
-    justify-content: space-around;
 }
 
 .listas ul{
-    list-style-type: none;
+    list-style-type: armenian;
     text-align: left;
 }
 
