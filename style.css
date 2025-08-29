@@ -114,4 +114,6 @@ p{
     background-color: beige;
     margin-bottom: 5%;
     margin-top: 3%;
+    display: flex;
 }
+
