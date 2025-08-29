@@ -81,7 +81,7 @@ body{
 .iframe{
     width: 70%;
     height: 100%;
-    box-shadow: 0 0 2px 2px black;
+    box-shadow: 0 0 2px 5px black;
 }
 
 h1{
