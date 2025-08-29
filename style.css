@@ -5,10 +5,16 @@
 
 body{
     background-color: antiquewhite;
-    
+    text-align: center;
+
 }
 
 .principal{
     background-color: grey;    
     margin-bottom: 5%;
+    display: flex;
+}
+
+.principal h1{
+    font-size: 5em;
 }
