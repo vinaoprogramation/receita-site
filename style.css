@@ -38,3 +38,15 @@ body{
     font-size: 3em;
 
 }
+
+.segunda-parte{
+    background-color: beige;    
+    justify-content: center;
+    width: 100%;
+    height: fit-content;
+}
+
+.segunda-parte .listas{
+    display: flex;
+    justify-content: space-around;
+}
