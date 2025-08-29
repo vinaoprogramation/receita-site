@@ -44,6 +44,7 @@ body{
     width: 100%;
     height: fit-content;
     justify-content: left;
+    text-align: left;
 }
 
 .segunda-parte .listas{
