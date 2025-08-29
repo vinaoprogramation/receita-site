@@ -117,3 +117,14 @@ p{
     display: flex;
 }
 
+.parte-1, .parte-2{
+    width: 50%;
+}
+
+.parte-1{
+    float:left;
+}
+
+.parte-2{
+    float: right;
+}
