@@ -55,20 +55,7 @@ body{
     width: 50%;
 }
 
-.segunda-parte .listas{
-    display: flex;
-    justify-content: space-around;
-}
-
-.segunda-parte h1{
-    text-align: center;
-}
-
-
 .imagem{
     position: absolute;
-    width: 30%;
-}
-
-.video{
+    width: 10%;
 }
