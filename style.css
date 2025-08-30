@@ -127,17 +127,17 @@ p{
     display: flex;
 }
 
-.parte-1, .parte-2{
+.parte-1{
+    float:left;
     width: 50%;
     box-sizing: border-box;
 }
 
-.parte-1{
-    float:left;
-}
-
 .parte-2{
     float: right;
+    background-color: black;
+    width: 50%;
+    box-sizing: border-box;
 }
 
 .parte-2 ul{
