@@ -70,6 +70,8 @@ body{
 
 .utensilios li p{
     display: inline-block;
+    vertical-align: middle;
+    align-items: center;
 }
 
 .segunda-parte{
