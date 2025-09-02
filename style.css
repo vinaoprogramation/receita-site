@@ -214,8 +214,7 @@ p {
     .principal {
         background-color: beige;
         justify-content: center;
-        width: 100%;
-        height: fit-content;
+        width: 800px;
         display: block;
     }
 
