@@ -242,11 +242,15 @@ p {
     .ingredientes{
         display: block;
         width: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     .utensilios{
         display: block;
         width: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     .imagem{
