@@ -189,6 +189,6 @@ p {
 
 @media screen and (max-width: 1400px){
     body{
-        width: 1vw;
+        width: 100vw;
     }
 }
