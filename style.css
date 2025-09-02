@@ -158,3 +158,6 @@ p{
     font-size: 3em;
 }
 
+.parte-2 ul a:hover{
+    background-color: rgb(114, 114, 114);
+}
