@@ -75,6 +75,10 @@ body{
     margin-bottom: 20%;
 }
 
+.utensilios .icone{
+    vertical-align: middle;
+}
+
 .segunda-parte{
     background-color: beige;    
     width: 100%;
