@@ -215,7 +215,7 @@ p {
     body {
         background-color: beige;
         text-align: center;
-        width: 100%;
+        width: 400px;
         height: 100%;
         font-family: "TASA Orbiter", sans-serif;
         font-size: 1em;
@@ -231,7 +231,7 @@ p {
     .principal {
         background-color: beige;
         justify-content: center;
-        width: 300px;
+        width: 100%;
         display: inline-block;
     }
 
