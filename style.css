@@ -209,7 +209,7 @@ p {
 }
     
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 400px){
 
 
     body {
@@ -231,7 +231,7 @@ p {
     .principal {
         background-color: beige;
         justify-content: center;
-        width: 500px;
+        width: 300px;
         display: inline-block;
     }
 
