@@ -227,7 +227,7 @@ p {
     .principal {
         background-color: rgb(0, 0, 0);
         justify-content: center;
-        width: 10px;
+        width: 500px;
         display: inline-block;
     }
 
@@ -253,6 +253,10 @@ p {
     .texto .video{
         display: inline-block;
         width: 100%;
+    }
+
+    .titulo-principal{
+        width: 50%;
     }
 }
 
