@@ -206,6 +206,10 @@ p {
         font-size: 1em;
         box-sizing: border-box;
     }
+}
+    
+
+@media screen and (max-width: 800px){
 
     .principal {
         background-color: beige;
@@ -217,9 +221,11 @@ p {
 
     .ingredientes{
         display: block;
+        width: 100%;
     }
 
     .utensilios{
         display: block;
+        width: 100%;
     }
 }
