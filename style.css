@@ -191,4 +191,8 @@ p {
     body{
         width: 100vw;
     }
+
+    .imagem{
+        width: 150px;
+    }
 }
