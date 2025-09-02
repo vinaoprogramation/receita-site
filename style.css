@@ -216,7 +216,7 @@ p {
         justify-content: center;
         width: 100%;
         height: fit-content;
-        display: inline-block;
+        display: block;
     }
 
     .listas{
@@ -237,4 +237,10 @@ p {
     .imagem{
         display: none;
     }
+
+    .texto .video{
+        display: block;
+        width: 100%;
+    }
 }
+
