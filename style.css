@@ -219,31 +219,29 @@ p {
         height: 100%;
         font-family: "TASA Orbiter", sans-serif;
         font-size: 1em;
-        box-sizing: border-box;
     }
-    
+
     html{
-        box-sizing: border-box;
     }
 
     .principal {
         background-color: beige;
         justify-content: center;
         width: 800px;
-        display: block;
+        display: inline-block;
     }
 
     .listas{
-        display: block;
+        display: inline-block;
     }
 
     .ingredientes{
-        display: block;
+        display: inline-block;
         width: 100%;
     }
 
     .utensilios{
-        display: block;
+        display: inline-block;
         width: 100%;
         margin-left: 50%;
     }
@@ -253,7 +251,7 @@ p {
     }
 
     .texto .video{
-        display: block;
+        display: inline-block;
         width: 100%;
     }
 }
