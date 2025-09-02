@@ -161,3 +161,11 @@ p{
 .parte-2 ul a:hover{
     color: rgb(114, 114, 114);
 }
+
+.icone{
+    width: 100%;
+}
+
+.icone img{
+    width: 100%;
+}
