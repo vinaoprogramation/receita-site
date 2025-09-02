@@ -219,6 +219,10 @@ p {
         display: inline-block;
     }
 
+    .listas{
+        display: block;
+    }
+
     .ingredientes{
         display: block;
         width: 100%;
