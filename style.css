@@ -236,11 +236,11 @@ p {
     }
 
     .listas{
-        display: inline-block;
+        display: block;
     }
 
     .ingredientes{
-        display: inline-block;
+        display: block;
         width: 100%;
     }
 
