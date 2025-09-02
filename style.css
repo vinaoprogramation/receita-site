@@ -64,6 +64,8 @@ body{
 .utensilios li{
     margin: 10% 0;
     vertical-align: middle;
+    align-items: center;
+    justify-content: center;
 }
 
 .segunda-parte{
