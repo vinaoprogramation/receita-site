@@ -179,3 +179,9 @@ p{
 .parte-2 ul a:hover{
     color: rgb(114, 114, 114);
 }
+
+@media screen and(max-width: 500px){
+    .principal{
+        background-color: black;
+    }
+}
