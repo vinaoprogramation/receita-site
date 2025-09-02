@@ -232,7 +232,7 @@ p {
         background-color: beige;
         justify-content: center;
         width: 100%;
-        display: inline-block;
+        display: block;
     }
 
     .listas{
