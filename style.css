@@ -139,14 +139,6 @@ p{
     box-sizing: border-box;
 }
 
-.parte-2 ul{
-    list-style-type: none;
-}
-
-.numero-grande{
-    font-size: 3em;
-}
-
 .parte-2 a{
     text-decoration: none;
     color: black;
@@ -158,3 +150,12 @@ p{
     list-style-type: disc;
     margin: auto;
 }
+
+.parte-2 ul li{
+    margin: 2%;
+}
+
+.numero-grande{
+    font-size: 3em;
+}
+
