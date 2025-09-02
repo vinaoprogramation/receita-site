@@ -225,7 +225,7 @@ p {
 
     html{
         box-sizing: border-box;
-        overflow: hidden;
+        overflow: scroll;
     }
 
     .principal {
