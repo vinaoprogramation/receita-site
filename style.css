@@ -76,6 +76,7 @@ body{
 
 .utensilios img{
     vertical-align: middle;
+    margin-top: 5%;
 }
 
 .segunda-parte{
@@ -178,10 +179,3 @@ p{
 .parte-2 ul a:hover{
     color: rgb(114, 114, 114);
 }
-
-
- img{
-    width: 100%;
-}
-
-
