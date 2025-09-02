@@ -225,7 +225,7 @@ p {
     }
 
     .principal {
-        background-color: beige;
+        background-color: rgb(0, 0, 0);
         justify-content: center;
         width: 10px;
         display: inline-block;
