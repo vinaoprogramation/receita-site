@@ -154,5 +154,6 @@ p{
 }
 
 .parte-2 ul{
+    width: 100%;
     list-style-type: disc;
 }
