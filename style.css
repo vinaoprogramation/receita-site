@@ -68,6 +68,10 @@ body{
     justify-content: center;
 }
 
+.utensilios li p{
+    display: inline-block;
+}
+
 .segunda-parte{
     background-color: beige;    
     width: 100%;
