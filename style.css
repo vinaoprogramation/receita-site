@@ -212,5 +212,14 @@ p {
         justify-content: center;
         width: 100%;
         height: fit-content;
+        display: inline-block;
+    }
+
+    .parte-1{
+        display: block;
+    }
+
+    .parte-2{
+        display: block;
     }
 }
