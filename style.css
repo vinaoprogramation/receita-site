@@ -231,5 +231,6 @@ p {
     .utensilios{
         display: block;
         width: 100%;
+        margin-left: 50%;
     }
 }
