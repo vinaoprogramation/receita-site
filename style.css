@@ -142,7 +142,6 @@ p{
 .parte-2 a{
     text-decoration: none;
     color: black;
-    margin: 10% 0;
 }
 
 .parte-2 ul{
@@ -152,7 +151,7 @@ p{
 }
 
 .parte-2 ul li{
-    margin: 2%;
+    margin: 2% 0;
 }
 
 .numero-grande{
